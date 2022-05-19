@@ -1,4 +1,4 @@
-TARGET = sulovjak
+TARGET = calendar
 
 CXX = g++
 
